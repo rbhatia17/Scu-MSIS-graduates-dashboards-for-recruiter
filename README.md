@@ -11,8 +11,11 @@ In this visualization
 - There is no such important information that would help a recruiter.
 
 # Redesign the previous visualization:
-In this i would like to do:
-- 
+As due to less data and lack of time i am not able to do things that i wanted to do and that are as folows:
+- Integrate the data
+- Compare the data for different universities.
+As for any recruiter they would like to see what skills students have and which universities students have the best skills. They would like to see a comparison of the top 5 universities in the bay area. SO,i wanted to find more data for the skills of different universities, there course curriculum compare them, salaries graduates get for the skills they have. 
+I would really like to design the whole visualization by first thinking of the audience, what are there needs, fears and then would like to find the data which relates to my audience.
 
 # Tableau Link
 https://public.tableau.com/profile/rachita.bhatia#!/vizhome/SCUMSISDashboardforRecruiters_0/Dashboard1?publish=yes
